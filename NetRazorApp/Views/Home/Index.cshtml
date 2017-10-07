@@ -16,14 +16,10 @@
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
     </head>
     <body>
-        <header style=" 
-        background-image: url('http://site.nightsbridge.com/wp-content/uploads/2015/12/home-slide-bg2.jpg');
-  background-size: cover;
-  height: 400px;
-  background-repeat: no-repeat;
-  color: #fff;">
+        <header>
             <nav class="navbar transparent navbar-inverse">
                 <div class="container-fluid">                    
                     <div class="navbar-header">
@@ -106,11 +102,8 @@
         <section class="tiny-section">
         </section>
         <section>
-
-            <div>
-               
-                <div id="myCarousel" class="carousel slide" data-ride="carousel">
-            
+            <div>               
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">            
                     <!-- Indicators -->
                     <ol class="carousel-indicators">
                         <li data-target="#myCarousel" data-slide-to="0" class="active" style=" background-image: linear-gradient(to right, #19797d,#17497d );"></li>
@@ -175,12 +168,10 @@
         </section>
         <footer>
             <div class="container" id="contact" style="padding-top:80px;">
-                <h2>Contact</h2>
-               
+                <h2>Contact</h2>               
                 <form>
                     <input type="text" id="email" name="email" placeholder="Your Email Address..."  />
-                    <textarea  type="text" placeholder="Your Message..." cols="5" rows="5" >Your message...
-                    </textarea>
+                  <textarea rows="5" cols="30" placeholder="Your Message Here..."></textarea><br />
                     <button class="input-go btn btn-block" style="margin-bottom: 30px;">Send</button>
                 </form>
                 <div class="contact">
@@ -190,8 +181,9 @@
                     <p id="youtube"></p>
                 </div>
             </div>
+            <p id="author">Proudly built by Emanuela-Felicia Colta</p>
         </footer>
-        <script src="/resources/jquery.min.js"></script>
-        <script src="/resources/bootstrap-3.3.6/dist/js/bootstrap.min.js"></script>
+        <script src="~/Content/jquery.min.js"></script>
+        <script src="~/Content//bootstrap-3.3.6/dist/js/bootstrap.min.js"></script>
     </body>
 </html>

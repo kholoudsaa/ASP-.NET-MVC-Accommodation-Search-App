@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6, h7 {
 }
 
 header {
-  background-image: url('~/Content/resources/background.png');
+  background-image: url('./resources/home-bed.jpg');
   background-size: cover;
   height: 400px;
   background-repeat: no-repeat;
@@ -233,6 +233,7 @@ textarea {
   width: 30px;
   margin-bottom: 30px;
   margin-top: 10px;
+  color: cadetblue;
 }
 footer {
   background-color: cadetblue; 
@@ -240,7 +241,7 @@ footer {
   bottom: 0px;
   width: 100%;
   width: 100%;
-  padding: 80px 0 260px 0;
+  padding: 80px 0 150px 0;
 }
 
 .contact {
@@ -284,7 +285,7 @@ footer {
   display: inline-block;
   width: 10%;
   float: left;
-  margin-left: 20px;
+  margin-left: 45px;
   height: 30px;
   background-size: contain;
   background-image: url('./resources/twitter.png');
@@ -327,7 +328,14 @@ footer {
   z-index: 50;
   margin-top: -150px;
 }
-
+#author {
+	text-align: center;
+	font-size:11px;
+	position:absolute;
+	bottom:20px;
+	width:100%;
+	margin:0 auto;
+}
 section {
     padding: 249px 400px 68px 400px;
     background: #fff;
