@@ -1,0 +1,12 @@
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/bin/NetRazorApp.pdb
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/bin/NetRazorApp.dll
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/obj/Debug/NetRazorApp.dll
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/obj/Debug/NetRazorApp.pdb
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/bin/Microsoft.Web.Infrastructure.dll
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/bin/System.Web.Razor.dll
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/bin/System.Web.Helpers.dll
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/bin/System.Web.WebPages.dll
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/bin/System.Web.WebPages.Deployment.dll
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/bin/System.Web.WebPages.Razor.dll
+/home/emma/Documents/projects/NetRazorApp/NetRazorApp/bin/System.Web.Mvc.dll
