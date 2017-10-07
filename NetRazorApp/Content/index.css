@@ -206,16 +206,14 @@ section {
 
 .caption-text a {
   float: right;
+  color: cadetblue;
+  font-weight: 100;
 }
 
 form {
   width: 40%;
   margin: 0 auto;
   margin-top: 60px;
-}
-
-#email {
-  color: #fff;
 }
 
 input[type=text],
