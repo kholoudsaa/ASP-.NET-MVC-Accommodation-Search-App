@@ -113,7 +113,7 @@ section {
 }
 
 .services-section {
-  background-image: url('http://www.hotelplanalto.com.br/wp-content/themes/HotelPlanalto/image/back-slide.png');
+  background-image: url('./resources/backslide.png');
   background-repeat: no-repeat;
   padding: 164px 0 130px;
   background-size: cover;
