@@ -75,6 +75,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Controllers\TestController.cs" />
+    <Compile Include="Controllers\Login.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />
